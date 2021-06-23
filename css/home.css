@@ -1,0 +1,70 @@
+#title {
+  font-size:large;
+  background-color: black;
+  color: white;
+  text-align: center;
+ 
+ }
+ 
+ #ques{
+   margin-top: 40px;
+   font-size: 20px;
+
+ }
+ /* p{
+   margin-left: 0;
+ } */
+
+
+
+ .font {
+   float: left;
+   font-size: 15px;
+   background-color:silver;
+   color: white;
+   width: max-content;
+   border-radius: 5%;
+   margin: 0;
+ }
+
+ input{
+   float: left;
+   margin-left: 1px;
+   /* color: black; */
+ }
+ /* #submit{
+
+ } */
+
+ .a_tag{
+   text-decoration: none;
+   background-color: skyblue;
+   color:black;
+   font-weight: bold;
+   font-size: large;
+   border-radius: 10%;
+ }
+
+ #typ a{
+
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  border-radius: 5%;
+  border: 1px solid #3c7fb1;
+  padding: 1em;
+  cursor: pointer;
+ }
+ /* #ul{
+   text-align: right;
+  
+ }
+
+ #ul li{
+   list-style: none;
+ } */
+ 
+ #start{
+   text-align: center;
+ }

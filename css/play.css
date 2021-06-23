@@ -1,0 +1,58 @@
+#target {
+  margin: 0;
+  user-select: none;
+  font-size: 60px;
+  text-align: center;
+  background: skyblue;
+  color: white;
+}
+
+#japa{
+  margin: 0;
+  user-select: none;
+  font-size: 30px;
+  text-align: center;
+  background-color: blue;
+  color: white;
+}
+
+#result {
+
+  text-align: center;
+  font-size: 60px;
+}
+
+
+#keyBoard{
+
+  background-color: gray;
+  width: 100%;
+}
+
+
+
+.func{
+  margin-right: 30px;
+}
+
+/* #q{
+  background-color: red;
+} */
+
+.a_tag1{
+  text-decoration: none;
+  background-color: skyblue;
+  color: white;
+  border-radius: 10%;
+  padding: 2px;
+
+}
+
+.a_tag2{
+  text-decoration: none;
+  background-color: pink;
+  color: black;
+  border-radius: 10%;
+  padding: 2px;
+
+}
