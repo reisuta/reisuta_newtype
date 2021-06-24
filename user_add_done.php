@@ -37,6 +37,7 @@ print 'さんを追加しました。<br>';
 }catch(Exception $e){
 
 print 'ただいま障害により大変ご迷惑をおかけしております。';
+print '<a href="index.php">ホーム画面へ</a>';
 exit();
 
 
@@ -45,7 +46,7 @@ exit();
 ?>
 
 
-
 <a href="index.php">ホーム画面へ</a>
+
 </body>
 </html>

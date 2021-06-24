@@ -9,7 +9,7 @@
 </head>
 <body>
   <h1 id="title">AT-typing！</h1>
-  <a href="index.html" class="a_tag">ホーム</a> 
+  <a href="index.php" class="a_tag">ホーム</a> 
   <a href="pr.html" class="a_tag">練習メニュー</a>
   <a href="login.html" class="a_tag">ログイン</a>
   <br><br>
