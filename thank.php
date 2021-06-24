@@ -47,6 +47,6 @@ try{
 
 ?>
 <br><br>
-<a href="index.html">ホームへ戻る</a>
+<a href="index.php">ホームへ戻る</a>
 </body>
 </html>
