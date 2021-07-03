@@ -42,7 +42,7 @@ if($name=='' || $pass=='' || $pass!=$pass2){
   $pass=md5($pass);
   // パスワードハッシュの書き方もある。verifyで認証必要。
   // $pass=password_hash($pass, PASSWORD_DEFAULT);
-  print '<form method="post" action="user_add_done.php">';
+  print '<form method="post" action="user_adddone.php">';
   print '<input type="hidden" name="name" value="'.$name.'">';
   print '<input type="hidden" name="pass" value="'.$pass.'">';
   print '<br>';
